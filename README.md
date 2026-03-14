@@ -40,7 +40,7 @@ This project visualizes advanced mechanical engineering domains through a dark i
 
 ### Servo Systems Section
 
-![alt text](<Screenshot 2026-03-14 115625-1.png>)
+![alt text](<Screenshot 2026-03-14 115646.png>)
 
 ## Technologies Used
 
