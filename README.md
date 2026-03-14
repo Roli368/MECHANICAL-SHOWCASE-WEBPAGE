@@ -1,16 +1,71 @@
-# React + Vite
+# Mechanical Showcase Webpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium interactive React frontend project that presents core mechanical engineering systems through cinematic motion, animated UI, and immersive concept sections.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://mechanical-showcase-webpage.vercel.app/
 
-## React Compiler
+## Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project visualizes advanced mechanical engineering domains through a dark industrial interface inspired by futuristic system dashboards.
 
-## Expanding the ESLint configuration
+## Featured Mechanical Concepts
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Geared Synthesis
+* IC Engine Dynamics
+* Robotic Automation
+* CNC Machining
+* Servo Systems
+
+## Main Features
+
+* Animated hero section
+* Interactive concept cards
+* Magnetic navbar interactions
+* Custom cursor
+* Scroll progress indicator
+* Tech marquee transitions
+* Responsive layout
+
+
+
+### Hero Section
+
+![alt text](<Screenshot 2026-03-14 115549.png>)
+
+### Robotic Automation Section
+
+![alt text](<Screenshot 2026-03-14 115625.png>)
+
+### Servo Systems Section
+
+![alt text](<Screenshot 2026-03-14 115625-1.png>)
+
+## Technologies Used
+
+* React
+* Framer Motion
+* Tailwind CSS
+* Lucide Icons
+
+## Run Locally
+
+1. Install dependencies
+
+npm install
+
+2. Start development server
+
+npm run dev
+
+## Build
+
+npm run build
+
+## Deployment
+
+Hosted on Vercel
+
+
+
